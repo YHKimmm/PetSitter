@@ -4,9 +4,9 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 
 ## Technical Skills Badges
 
-<img alt="C#" src="https://img.shields.io/badge/Language-C%23-blue">
+<img alt="C#" src="https://img.shields.io/badge/Language-C%23-blue"><img alt="CSS" src="https://img.shields.io/badge/Language-CSS-blueviolet">
 <img alt="Built with Blazor" src="https://img.shields.io/badge/Built%20with-Blazor-blueviolet.svg">
-<img alt="CSS" src="https://img.shields.io/badge/Language-CSS-blueviolet">
+
 <img alt="Bootstrap" src="https://img.shields.io/badge/Framework-Bootstrap-563d7c">
 <img alt="ASP.NET MVC 6" src="https://img.shields.io/badge/ASP.NET-MVC6-blue">
 <img alt="Entity Framework" src="https://img.shields.io/badge/Entity-Framework-green">

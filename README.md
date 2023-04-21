@@ -106,6 +106,29 @@ https://github.com/sa-rahmani/PetSitter
 
 ## Demo
 https://petsitter20230420102802.azurewebsites.net/
+<ul>
+  <li>
+    Sign in as <strong>customer</strong>
+    <ul>
+      <li>Email: braydenkim98@gmail.com</li>
+      <li>Password: P@ssw0rd!</li>
+    </ul>
+  </li>
+  <li>
+    Sign in as <strong>sitter</strong>
+    <ul>
+      <li>Email: ssdteamgreen@gmail.com</li>
+      <li>Password: P@ssw0rd!</li>
+    </ul>
+  </li>
+  <li>
+    Sign in as <strong>admin</strong>
+    <ul>
+      <li>Email: ktyty0909@gmail.com</li>
+      <li>Password: P@ssw0rd!</li>
+    </ul>
+  </li>
+</ul>
 
 ## WireFrame
 - **Customer Side**

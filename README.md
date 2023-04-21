@@ -38,7 +38,7 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 <img alt="SendGrid" src="https://img.shields.io/badge/Service-SendGrid-00a9e0">
 <img alt="reCAPTCHA" src="https://img.shields.io/badge/Security-reCAPTCHA-brightgreen">
 
-**Update Database**:
+**Database**:
 <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-blue?logo=microsoft-sql-server&logoColor=white">
 
 **Cloud**:
@@ -77,7 +77,7 @@ This application's configuration and strings such as mssql connection string, se
 Update the connection string in the appsettings.json file to point to your database.
 
 
-## Database
+## Update Database
 
 To update the database with any pending Entity Framework migrations, follow these steps:
 

@@ -52,7 +52,7 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 
 **Reviews:** Customers can rate and leave reviews for sitters, which can be publicly viewed by other customers. Sitters, in turn, can view their overall rating, as well as individual ratings and comments from customers.
 
-**Customer Profile:** Customers have access to a dedicated profile page where they can manage their personal information, view their upcoming bookings, and add, modify or remove pet information.
+**Customer Dashboard:** Customers have access to a dedicated profile page where they can manage their personal information, view their upcoming bookings, and add, modify or remove pet information.
 
 **Sitter Dashboard**: Sitters can view a dashboard that shows the number of upcoming and completed bookings, as well as the total number of reviews they have received so far. They can also see the customer's name, booking ID, pet type, start date, and end date.
 

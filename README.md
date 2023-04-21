@@ -4,10 +4,10 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 
 ## Technical Skills
 
-Language
+**Language**:
 <img alt="C#" src="https://img.shields.io/badge/Language-C%23-blue">
 
-Framework & Libraries:
+**Framework & Libraries**:
 <img alt="Built with Blazor" src="https://img.shields.io/badge/Built%20with-Blazor-blueviolet.svg">
 <img alt="ASP.NET MVC 6" src="https://img.shields.io/badge/ASP.NET-MVC6-blue">
 <img alt="Entity Framework" src="https://img.shields.io/badge/Entity-Framework-green">
@@ -15,19 +15,19 @@ Framework & Libraries:
 <img alt="jQuery" src="https://img.shields.io/badge/Library-jQuery-blue?logo=jquery&logoColor=white">
 <img alt="AJAX" src="https://img.shields.io/badge/Language-AJAX-4b4b4b">
 
-CSS and CSS Frameworks:
+**CSS and CSS Frameworks**:
 <img alt="CSS" src="https://img.shields.io/badge/Language-CSS-blueviolet">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Framework-Bootstrap-563d7c">
 
-Other tools and services:
+**Other tools and services**:
 <img alt="PayPal API" src="https://img.shields.io/badge/API-PayPal-003087">
 <img alt="SendGrid" src="https://img.shields.io/badge/Service-SendGrid-00a9e0">
 <img alt="reCAPTCHA" src="https://img.shields.io/badge/Security-reCAPTCHA-brightgreen">
 
-Database:
+**Database**:
 <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-blue?logo=microsoft-sql-server&logoColor=white">
 
-Cloud:
+**Cloud**:
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat-square" alt="Microsoft Azure badge">
 
 ## Features
@@ -73,8 +73,8 @@ To update the database with any pending Entity Framework migrations, follow thes
 
 3. In the Package Manager Console, type the following command and press Enter:
 
-update-database -Context PetSitterContext
-update-database -Context ApplicationDbContext
+(* update-database -Context PetSitterContext *)
+(* update-database -Context ApplicationDbContext *)
 
 This command will apply any pending migrations to the database and update it to the latest schema.
 

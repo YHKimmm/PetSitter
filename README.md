@@ -8,9 +8,9 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 - [Features](#Features)
 - [Installation](#Installation)
 - [Configuration](#Configuration)
-- [Database](#Database)
+- [Update Database](#update-database)
 - [Usage](#Usage)
-- [Main Repository](#Repository)
+- [Main Repository](#main-repository)
 - [Demo](#Demo)
 - [WireFrame](#WireFrame)
 - [ERD](#ERD)
@@ -38,7 +38,7 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 <img alt="SendGrid" src="https://img.shields.io/badge/Service-SendGrid-00a9e0">
 <img alt="reCAPTCHA" src="https://img.shields.io/badge/Security-reCAPTCHA-brightgreen">
 
-**Database**:
+**Update Database**:
 <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-blue?logo=microsoft-sql-server&logoColor=white">
 
 **Cloud**:

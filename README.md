@@ -4,17 +4,17 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 
 ## Table of Contents
 
-- [Technical Skills](#Technical Skills)
+- [Technologies](#Technologies)
 - [Features](#Features)
 - [Installation](#Installation)
 - [Configuration](#Configuration)
-- [Updating the Database](#Updating the Database)
+- [Database](#Database)
 - [Usage](#Usage)
 - [Demo](#Demo)
 - [WireFrame](#WireFrame)
 - [ERD](#ERD)
 
-## Technical Skills
+## Technologies
 
 **Language**:
 <img alt="C#" src="https://img.shields.io/badge/Language-C%23-blue">
@@ -75,7 +75,7 @@ This application's configuration and strings such as mssql connection string, se
 Update the connection string in the appsettings.json file to point to your database.
 
 
-## Updating the Database
+## Database
 
 To update the database with any pending Entity Framework migrations, follow these steps:
 

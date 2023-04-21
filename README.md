@@ -39,6 +39,8 @@ Admin Dashboard: Administrators have access to a dashboard that allows them to v
 
 ## Configuration
 
+This application's configuration and strings such as mssql connection string, sendgrid api key, recaptcah site key and secret key are stored in secrets.json file.
+
 Update the connection string in the appsettings.json file to point to your database.
 
 

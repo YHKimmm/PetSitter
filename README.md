@@ -50,7 +50,7 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 
 **Booking System:** Customers can easily book a pet sitter service, select the dates with available sitter for the service, and provide additional information about their pets. Sitters can review their scheduled bookings, confirm them, and view customer contact information.
 
-**Search:** Customers can search for available sitters by location, availability, and pet type.
+**Search:** Sitters can view location of customers and sitter itself's location
 
 **Reviews:** Customers can rate and leave reviews for sitters, which can be publicly viewed by other customers. Sitters, in turn, can view their overall rating, as well as individual ratings and comments from customers.
 

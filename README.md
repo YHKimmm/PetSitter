@@ -99,6 +99,9 @@ To update the database with any pending Entity Framework migrations, follow thes
 
 4. Review your upcoming bookings on the dashboard
 
+## Main Repository
+https://github.com/sa-rahmani/PetSitter
+
 ## Demo
 https://petsitter20230420102802.azurewebsites.net/
 

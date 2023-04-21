@@ -103,8 +103,11 @@ To update the database with any pending Entity Framework migrations, follow thes
 https://petsitter20230420102802.azurewebsites.net/
 
 ## WireFrame
+![pet-sitter(customer)](https://user-images.githubusercontent.com/102700164/233535109-145d979e-d1df-4910-9bc7-86fc162b7282.png)
 
 ## ERD
+
+## UML
 
 
 

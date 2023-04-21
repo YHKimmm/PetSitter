@@ -103,11 +103,19 @@ To update the database with any pending Entity Framework migrations, follow thes
 https://petsitter20230420102802.azurewebsites.net/
 
 ## WireFrame
+- **Customer Side**
 ![pet-sitter(customer)](https://user-images.githubusercontent.com/102700164/233535109-145d979e-d1df-4910-9bc7-86fc162b7282.png)
+- **Sitter Side**
+![pet-sitter(sitter)](https://user-images.githubusercontent.com/102700164/233535238-b6169f9c-1ce7-4b77-a42e-f8f8081d3e40.png)
+- **Admin Side**
+![pet-sitter(admin)](https://user-images.githubusercontent.com/102700164/233535277-fe833118-f5f5-4f48-9186-dbd9920030b8.png)
 
 ## ERD
+![petsitter sql diagram](https://user-images.githubusercontent.com/102700164/233535392-dbf73284-973f-4a9a-b540-bfdb729a4d80.png)
 
 ## UML
+![UML1](https://user-images.githubusercontent.com/102700164/233535407-fa5f7542-3e9e-4ed6-a693-3c5646bcc259.png)
+![UML2](https://user-images.githubusercontent.com/102700164/233535412-5650c29d-fc4b-4fe1-8965-17bc21142146.png)
 
 
 

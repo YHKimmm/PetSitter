@@ -4,7 +4,7 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 
 ## Technical Skills
 
-Language:
+Language
 <img alt="C#" src="https://img.shields.io/badge/Language-C%23-blue">
 
 Framework & Libraries:

@@ -2,6 +2,18 @@
 
 PetSitter is a web application that facilitates the scheduling of pet sitting services through role-based authentication. The platform allows users to register as either customers or sitters. Customers can conveniently book pet sitting services, while sitters can view their scheduled bookings.
 
+## Table of Contents
+
+- [Technical Skills](#Technical Skills)
+- [Features](#Features)
+- [Installation](#Installation)
+- [Configuration](#Configuration)
+- [Updating the Database](#Updating the Database)
+- [Usage](#Usage)
+- [Demo](#Demo)
+- [WireFrame](#WireFrame)
+- [ERD](#ERD)
+
 ## Technical Skills
 
 **Language**:
@@ -94,11 +106,6 @@ https://petsitter20230420102802.azurewebsites.net/
 
 ## ERD
 
-
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 

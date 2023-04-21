@@ -74,9 +74,7 @@ To update the database with any pending Entity Framework migrations, follow thes
 3. In the Package Manager Console, type the following command and press Enter:
   `update-database -Context PetSitterContext`
   `update-database -Context ApplicationDbContext`
-
-  This command will apply any pending migrations to the database and update it to the latest schema.
-
+  
 4. You can now run your ASP.NET MVC application and verify that it is using the updated database schema
 
 ## Usage

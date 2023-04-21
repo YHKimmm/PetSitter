@@ -2,21 +2,32 @@
 
 PetSitter is a web application that facilitates the scheduling of pet sitting services through role-based authentication. The platform allows users to register as either customers or sitters. Customers can conveniently book pet sitting services, while sitters can view their scheduled bookings.
 
-## Technical Skills Badges
+## Technical Skills
 
-<img alt="C#" src="https://img.shields.io/badge/Language-C%23-blue"><img alt="CSS" src="https://img.shields.io/badge/Language-CSS-blueviolet">
+Language:
+<img alt="C#" src="https://img.shields.io/badge/Language-C%23-blue">
+
+Framework & Libraries:
 <img alt="Built with Blazor" src="https://img.shields.io/badge/Built%20with-Blazor-blueviolet.svg">
-
-<img alt="Bootstrap" src="https://img.shields.io/badge/Framework-Bootstrap-563d7c">
 <img alt="ASP.NET MVC 6" src="https://img.shields.io/badge/ASP.NET-MVC6-blue">
 <img alt="Entity Framework" src="https://img.shields.io/badge/Entity-Framework-green">
 <img alt="Identity Framework" src="https://img.shields.io/badge/Framework-Identity-5c2d91">
 <img alt="jQuery" src="https://img.shields.io/badge/Library-jQuery-blue?logo=jquery&logoColor=white">
 <img alt="AJAX" src="https://img.shields.io/badge/Language-AJAX-4b4b4b">
+
+CSS and CSS Frameworks:
+<img alt="CSS" src="https://img.shields.io/badge/Language-CSS-blueviolet">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Framework-Bootstrap-563d7c">
+
+Other tools and services:
 <img alt="PayPal API" src="https://img.shields.io/badge/API-PayPal-003087">
 <img alt="SendGrid" src="https://img.shields.io/badge/Service-SendGrid-00a9e0">
 <img alt="reCAPTCHA" src="https://img.shields.io/badge/Security-reCAPTCHA-brightgreen">
+
+Database:
 <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-blue?logo=microsoft-sql-server&logoColor=white">
+
+Cloud:
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat-square" alt="Microsoft Azure badge">
 
 ## Features
@@ -41,9 +52,9 @@ Admin Dashboard: Administrators have access to a dashboard that allows them to v
 
 2. Open the solution file PetSitter.sln in Visual Studio
 
-3 .Restore the NuGet packages
+3. Restore the NuGet packages
 
-4 .Build the solution
+4. uild the solution
 
 ## Configuration
 

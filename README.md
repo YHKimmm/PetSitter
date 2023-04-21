@@ -10,9 +10,11 @@ PetSitter is a web application that facilitates the scheduling of pet sitting se
 - [Configuration](#Configuration)
 - [Database](#Database)
 - [Usage](#Usage)
+- [Main Repository](#Demo)
 - [Demo](#Demo)
 - [WireFrame](#WireFrame)
 - [ERD](#ERD)
+- [UML](#UML)
 
 ## Technologies
 
